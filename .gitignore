@@ -1,0 +1,58 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+target/
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Eclipse and IntelliJ project files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
+*.swp
+
+# OR-Tools native binaries (if any extracted)
+ortools-*
+*.so
+*.dll
+*.dylib
+
+# Output / temporary directories
+out/
+bin/
+logs/
+
+# Test results and reports
+surefire-reports/
+test-output/

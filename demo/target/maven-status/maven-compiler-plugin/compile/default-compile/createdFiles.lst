@@ -1,2 +1,7 @@
+com/scheduler/SchedulerModel.class
+com/scheduler/SchedulerModel$Assignment.class
+com/scheduler/Config.class
 com/scheduler/SchoolScheduler.class
 com/scheduler/Main.class
+com/scheduler/SchedulerModel$SolutionResult.class
+com/scheduler/PrettyPrinter.class

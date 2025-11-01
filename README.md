@@ -30,3 +30,26 @@ It automatically assigns courses to **teachers**, **rooms**, and **time slots** 
 
 ## 📦 Project Structure
 
+
+---
+
+## ⚙️ Prerequisites
+
+- Java 11 or higher  
+- Maven 3.6+  
+- Internet connection to download OR-Tools via Maven
+
+---
+
+## 🚀 Setup & Run
+
+1. **Clone this repository**
+```bash
+   git clone https://github.com/your-username/school-scheduler-java.git
+   cd school-scheduler-java
+ ```
+
+2. **Compile and run**
+```bash
+mvn compile exec:java -Dexec.mainClass=SchoolSchedulerFullConfig
+```

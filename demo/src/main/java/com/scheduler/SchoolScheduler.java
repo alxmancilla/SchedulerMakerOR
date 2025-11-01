@@ -1,7 +1,6 @@
 package com.scheduler;
 // SchoolScheduler.java
 
-// SchoolSchedulerFullConfig.java
 import com.google.ortools.Loader;
 import com.google.ortools.sat.BoolVar;
 import com.google.ortools.sat.CpModel;

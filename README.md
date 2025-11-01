@@ -45,11 +45,11 @@ It automatically assigns courses to **teachers**, **rooms**, and **time slots** 
 
 1. **Clone this repository**
 ```bash
-   git clone https://github.com/your-username/school-scheduler-java.git
-   cd school-scheduler-java
+   git clone https://github.com/alxmancilla/SchedulerMakerOR.git
+   cd SchedulerMakerOR
  ```
 
 2. **Compile and run**
 ```bash
-mvn compile exec:java -Dexec.mainClass=SchoolSchedulerFullConfig
+mvn compile exec:java -Dexec.mainClass=SchoolScheduler
 ```
